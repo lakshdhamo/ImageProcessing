@@ -1,0 +1,5 @@
+D:\SourceCode\Sample\WPFApplication\ImageProcessing\Models\bin\Debug\Models.dll
+D:\SourceCode\Sample\WPFApplication\ImageProcessing\Models\bin\Debug\Models.pdb
+D:\SourceCode\Sample\WPFApplication\ImageProcessing\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\SourceCode\Sample\WPFApplication\ImageProcessing\Models\obj\Debug\Models.dll
+D:\SourceCode\Sample\WPFApplication\ImageProcessing\Models\obj\Debug\Models.pdb
